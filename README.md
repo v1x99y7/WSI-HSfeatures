@@ -1,3 +1,20 @@
+# Using Deep Learning-Based Histopathological Features and<br>Image Segmentation to Predict Colorectal Cancer Survival<br>from Whole Slide Images
+By Yan-Jun Li, Hsin-Hung Chou, Peng-Chan Lin, Meng-Ru Shen, and Sun-Yuan Hsieh
+
+## Introduction
+This repository contains the source code for our paper. Our proposed method consists of three main parts: 1) extracting histopathological features 
+
+
+
+
+aims to extract prognostic features from whole slide images to forecast patients' survival risk.
+
+
+
+
+
+
+
 ## Introduction
 Our proposed method aims to extract prognostic features from whole slide images (WSIs) and predict patient's survival risk.
 
